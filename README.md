@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/masudtweets?style=social&logo=twitter)](https://twitter.com/masudtweets)
 
 
-[![Top Languages on GitHub](https://github-readme-stats-eight-lovat-13.vercel.app//api/top-langs/?username=masud90&layout=compact)](https://github.com/masud90) 
+[![Top Languages on GitHub](https://github-readme-stats-eight-lovat-13.vercel.app//api/top-langs/?username=masud90&langs_count=10&layout=compact)](https://github.com/masud90) 
 
 
 <h3 align="left">Languages and Tools:</h3>
