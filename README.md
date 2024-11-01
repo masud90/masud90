@@ -5,11 +5,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/masudtweets?style=social&logo=twitter)](https://twitter.com/masudtweets)
 
 
-[![Top Languages on GitHub](https://github-readme-stats-eight-lovat-13.vercel.app//api/top-langs/?username=masud90&langs_count=10&layout=compact)](https://github.com/masud90) 
-
-
 **My data analytics stack:**
 
-- Statistical software: `SAS`, `Stata`, `Python`, `R`
-- Data management: `MySQL`, `SDCMicro (R)`
-- Data visualization: `PowerBI`, `Tableau`, `LaTeX/Beamer`
+- Statistical software: `SAS` `Stata` `Python` `R`
+- Data management: `MySQL` `SDCMicro(R)`
+- Data visualization: `PowerBI` `Tableau` `LaTeX/Beamer`
+
+
+[![Top Languages on GitHub](https://github-readme-stats-eight-lovat-13.vercel.app//api/top-langs/?username=masud90&langs_count=10&layout=compact)](https://github.com/masud90) 
+
