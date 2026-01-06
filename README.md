@@ -18,7 +18,7 @@ Population pyramid visualization for Stata.
 
 ### [convertxlsform](https://github.com/masud90/convertxlsform)
 
-R package for ODK XLSForm conversions. (updated version forthcoming)
+R package for ODK XLSForm conversions (updated version forthcoming).
 
 [![GitHub Tag](https://img.shields.io/github/v/tag/masud90/convertxlsform?style=flat&logo=github&label=latest%20version)](https://github.com/masud90/convertxlsform/releases)  [![release](https://img.shields.io/github/release-date/masud90/convertxlsform?logo=github&style=flat)](https://github.com/masud90/convertxlsform/releases) [![CRAN status](https://www.r-pkg.org/badges/version/convertxlsform)](https://CRAN.R-project.org/package=convertxlsform) 
 
@@ -27,6 +27,6 @@ R package for ODK XLSForm conversions. (updated version forthcoming)
 - Statistical analysis: `R` `Python` `Stata` `SAS`
 - Data management: `SQL` `MySQL` `SDCMicro(R)`
 - Reporting and visualization: `PowerBI` `Tableau` `Quarto` `ggplot2` `LaTeX/Beamer`
-- Survey tools: `ODK` `KoboToolbox/SurveyCTO`
+- Survey tools: `ActivityInfo` `KoboToolbox/SurveyCTO`
 
 ~~[Check online portfolio here](https://masud90.github.io)~~
